@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/home/louyong/huge/src/Github/Meituan/CarRepair/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/louyong/huge/src/Github/Meituan/CarRepair/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 57,
+                        "endOffset": 358
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/louyong/src/github/Meituan/CarRepair/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/louyong/src/github/Meituan/CarRepair/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 57,
+                        "endOffset": 358
+                    }
+                }
+            }
+        ]
+    }
+]

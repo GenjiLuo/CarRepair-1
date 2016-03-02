@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/louyong/huge/src/Github/Meituan/CarRepair/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0725d32f682f72bdfb3f61a2cd04dc3763710b6c">
+        <dex dex="/home/louyong/huge/src/Github/Meituan/CarRepair/build/intermediates/pre-dexed/debug/android-support-v4_094a2802daf0f665ba74bf8d93be8e036ddc4d53.jar" />
+    </item>
+
+</items>

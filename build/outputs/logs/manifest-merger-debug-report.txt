@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:2:1-35:12
+	xmlns:android
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:3:5-38
+	android:versionName
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:5:5-30
+		INJECTED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml
+		INJECTED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:4:5-28
+		INJECTED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml
+		INJECTED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml
+uses-sdk
+ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:8:9-35
+application
+ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:11:5-33:19
+	android:label
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:15:9-40
+activity#com.microroad.carrepair.ui.StartImageActivity
+ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:16:9-23:20
+	android:label
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:17:13-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:21:27-74
+activity#com.microroad.carrepair.ui.TabMenuActivity
+ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:24:9-56
+	android:name
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:24:19-53
+activity#com.microroad.carrepair.ui.UserLoginActivity
+ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:25:9-81
+	android:name
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:25:19-78
+activity#com.microroad.carrepair.ui.DBActivity
+ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:26:9-74
+	android:name
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:26:19-71
+activity#com.microroad.carrepair.ui.MainMassageActivity
+ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:27:9-83
+	android:name
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:27:19-80
+activity#com.microroad.carrepair.ui.MyMassageActivity
+ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:28:9-81
+	android:name
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:28:19-78
+activity#com.microroad.carrepair.ui.MoreInfoActivity
+ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:29:9-80
+	android:name
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:29:19-77
+activity#com.microroad.carrepair.ui.MyPractiveAdapter
+ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:30:9-81
+	android:name
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:30:19-78
+activity#com.microroad.carrepair.ui.PractiveTwoAdapter
+ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:31:9-82
+	android:name
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:31:19-79
+activity#com.microroad.carrepair.ui.ViewPagerAdapter
+ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:32:9-80
+	android:name
+		ADDED from /home/louyong/src/github/Meituan/CarRepair/AndroidManifest.xml:32:19-77
